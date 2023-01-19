@@ -1,4 +1,4 @@
-# spelunkr
+# Spelunkr
 Spelunkr is a fractal exploration program written in Rust.
 
 ## Features
@@ -26,4 +26,6 @@ None, yet.
   - SIMD?
 
 ### Phase 5
+- add overlay w/ position, menu, etc.
+- add option to render other fractals 
 - map controls to analog input device (PS4 controller?)
