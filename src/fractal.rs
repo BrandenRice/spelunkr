@@ -26,7 +26,7 @@ impl Fractal {
         }
     }
 
-    fn iterate_point(iterations: u32, point: &mut Complex) {
+    fn iterate_point(iterations: u32, point: &mut Complex) {                                                                                 
         let mut p = *point;
 
         for i in 0..iterations {
